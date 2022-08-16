@@ -7,13 +7,10 @@ This project is meant to demonstrate 3 types of cellular automata
 in a way that allows the user to play around and experience the 
 automata. 
 
-
-To run the program, go into main and press control b.
-
-There are no libraries or modules that need to be installed. All classes
-used are imported into the class object files. 
-
-For commands and keybinds, the application will write out all you need.
+To run the program, properly install cmu_112 graphics according to their website here:
+https://www.cs.cmu.edu/~112/notes/notes-graphics.html
+ 
+For commands and keybinds, the application will write out all you need to know.
 
 File Map:
 
@@ -25,11 +22,3 @@ File Map:
     Features.txt - List of features
 
 
-Video Here:
-
-https://drive.google.com/file/d/1A61ReTPMIMiBq4RlfbCOBnyVCM6hSich/view?usp=sharing
-
-
-Google Drive Repository:
-
-https://drive.google.com/drive/folders/1g8kIQ2HdiNAzJh_FXxWd_PyVu1wWUuor?usp=sharing
