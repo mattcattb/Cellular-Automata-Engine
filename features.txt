@@ -1,0 +1,25 @@
+1. Board sizing based on app width/height
+2. integer ruleset maker
+3. Physics engine particle algorithm 
+4. Brush sizing
+5. Brush Drag  
+6. Pause Ability 
+7. multiple mode screens 
+8. Game of life simulation 
+9. Wolfram code simulation
+10. Changable rulesets in application
+11. pausing and forward stepping application
+12. generation tracking 
+13. wolfram object
+14. game of Life object
+15. Physics object 
+16. 4 element physics 
+17. Popularization algorithms for Game of Life
+18. Speed up and slow down generations
+19. Cluster Popularize board
+20. Particle Elements each are subclasses of element class
+21. Board logic is stored in class static variables and methods
+22. 6 different unique elements and element interactions based of liquids and solids
+23. Gravity and water velocity methods
+24. Salt disolution and floatability methods
+
